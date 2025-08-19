@@ -1,1 +1,25 @@
+COVID Data Exploration
+- Explored global COVID cases, deaths, and vaccinations.  
+- Compared countries (for example, Iraq vs Austria) and continents.  
+- Used CTEs, temp tables, joins, and views to organize queries.  
+- Looked at trends in reporting quality and the relationship between infection and vaccination rates.  
+
+**Skills:** SQL joins, aggregations, CTEs, views, exploratory analysis  
+
+---
+
+Housing Data Cleaning (US)
+- Took a raw housing dataset and prepared it for analysis.  
+- Standardized date formats, filled missing values, split addresses, and normalized Yes/No flags.  
+- Removed duplicates using ROW_NUMBER() and dropped unused columns.  
+- Simulated a realistic ETL-style cleaning process.  
+
+**Skills:** SQL data cleaning, normalization, deduplication, data preparation  
+
+---
+
+Summary
+Together, these projects show capability in both:  
+- Data exploration (asking questions and finding insights).  
+- Data cleaning (turning raw data into analysis-ready datasets).  
 
