@@ -1,0 +1,17 @@
+King County Housing Dashboard
+
+This project explores the King County housing market (Seattle area) using Tableau. The dataset covers ~21,000 house sales, including details like price, square footage, number of bedrooms, and location.
+
+The dashboard lets you:
+
+Explore housing prices across different zip codes (map view).
+
+Compare house size with sale price using a scatter plot.
+
+See how average prices vary with the number of bedrooms.
+
+Look at how prices have changed over time.
+
+It’s fully interactive — you can filter by zipcode, year built, or bedrooms to drill down into the data.
+
+The goal was to create a clear, visual way to understand what drives housing prices and to practice interactive dashboard design in Tableau.
