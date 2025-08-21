@@ -1,0 +1,19 @@
+This folder contains two projects where I created synthetic datasets to mirror real-world data. The idea is to have realistic but safe-to-share data that can be reused in other projects without restrictions.
+
+1. Synthetic Replication (Tabular)
+
+Based on a real credit card fraud dataset.
+
+Goal: Generate synthetic transactions that match the real data in amount distributions, class imbalance, and feature correlations.
+
+Skills: manual data generation, statistical similarity tests (KS test, Wasserstein distance, MAE), correlation analysis, visualization.
+
+2. Synthetic Time Series (Energy Consumption)
+
+Based on household power consumption data.
+
+Goal: Create a synthetic time series that captures trend, seasonality, and noise patterns of real energy usage.
+
+Skills: time series simulation, autocorrelation and rolling statistics analysis, signal decomposition, comparison of real vs synthetic dynamics.
+
+These projects are meant to be starting points synthetic datasets like these can later be plugged into machine learning, anomaly detection, or forecasting tasks while avoiding privacy issues.
