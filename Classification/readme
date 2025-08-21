@@ -1,0 +1,23 @@
+This folder contains three machine learning projects where I applied Logistic Regression, Random Forest, and Support Vector Machine (SVM) on the Breast Cancer dataset.
+
+Each project has:
+
+A Jupyter Notebook with clear step-by-step workflow
+
+Visualizations for evaluation (confusion matrix, ROC curve, PR curve, learning curve, calibration curve)
+
+A short presentation summarizing the method, results, and insights
+
+Skills demonstrated
+
+Data preprocessing & scaling
+
+Model training & evaluation
+
+Interpreting metrics (accuracy, precision, recall, F1, AUC)
+
+Visualization of results for model comparison
+
+Communicating findings in presentation format
+
+These projects show how different algorithms perform on the same dataset and how to interpret their results in a clear, visual way.
